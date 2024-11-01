@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "weather-js": "^2.0.0",
+    "weather.js": "^0.1.0"
+  },
+  "name": "prof-video",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
